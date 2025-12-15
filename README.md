@@ -1,5 +1,5 @@
 ## Todo Application
-A modern, role-based task management application built with React, Vite, and Tailwind CSS. Features admin and user dashboards with drag-and-drop functionality.
+A modern, role-based task management application built with React, Vite, and Tailwind CSS. Features admin and user dashboards.
 
 ## Features
 **Authentication System:** Role-based access control (Admin & User roles)
